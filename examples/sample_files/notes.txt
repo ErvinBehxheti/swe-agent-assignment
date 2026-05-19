@@ -1,0 +1,26 @@
+AI Study Notes
+===============
+
+Topic: Machine Learning Basics
+
+1. Supervised Learning
+   - The model is trained on labelled data.
+   - Examples: linear regression, decision trees, SVMs, neural networks.
+   - Goal: learn a mapping from inputs to outputs.
+
+2. Unsupervised Learning
+   - No labels are provided; the model finds structure on its own.
+   - Examples: k-means clustering, PCA, autoencoders.
+   - Goal: discover hidden patterns or groupings.
+
+3. Reinforcement Learning
+   - An agent learns by interacting with an environment.
+   - Receives rewards for correct actions, penalties for wrong ones.
+   - Examples: game-playing agents (AlphaGo), robotics control.
+
+Key Terms
+---------
+- Overfitting: model performs well on training data but poorly on new data.
+- Underfitting: model is too simple to capture the underlying pattern.
+- Epoch: one full pass through the training dataset.
+- Gradient descent: optimisation algorithm used to minimise loss.
